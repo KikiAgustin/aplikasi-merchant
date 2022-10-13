@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	var url = "https://www.dfunstation.com/api4/consultant/index.php/member/login/?callback=?";
+	var url = "https://www.dfunstation.com/api4/consultant/index.php/member/login_merchant/?callback=?";
 
 	//Login Function
 	$("#login").click(function () {
